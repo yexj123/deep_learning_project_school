@@ -9,7 +9,7 @@ __pycache__/
 *.pyc
 .venv/
 .env
-
+gemini.py
 # OS specific
 .DS_Store
 Thumbs.db
