@@ -1,0 +1,4 @@
+dropout: 0.2
+lr: 0.0003412202821587313
+num_classes: 8
+weight_decay: 3.8060761050590326e-08
